@@ -1,13 +1,13 @@
 
 # 🖐️ AI-Based Invisible Hand for Disabled People
 
-**An intelligent computer control system for people with disabilities using facial gestures—blink to click, head tilt to move cursor, and open mouth to scroll. Powered by Computer Vision and Python. No hardware, just a webcam!**
+**An intelligent computer control system for people with disabilities using facial gestures blink to click, head tilt to move cursor, and open mouth to scroll. Powered by Computer Vision and Python. No hardware, just a webcam!**
 
 ---
 
 ## 🔍 Overview
 
-This project presents a hands-free, AI-powered interface that allows users—especially individuals with motor disabilities—to interact with a computer using facial gestures. It uses real-time facial landmark detection to control mouse movements and simulate click and scroll actions.
+This project presents a hands-free, AI-powered interface that allows users—especially individuals with motor disabilities to interact with a computer using facial gestures. It uses real-time facial landmark detection to control mouse movements and simulate click and scroll actions.
 
 ### 🎯 Key Features
 
