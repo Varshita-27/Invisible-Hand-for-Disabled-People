@@ -41,7 +41,7 @@ This project presents a hands-free, AI-powered interface that allows users—esp
 
 2. Download and place the shape predictor file
 
-   Download the `shape_predictor_68_face_landmarks.dat` model from the [official dlib website](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2), extract it, and place it in the root folder of this project (same level as `project.py`).
+   Download the `shape_predictor_68_face_landmarks.dat` model from the http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2, extract it, and place it in the root folder of this project (same level as `project.py`).
 
 3. **Run the application**
 
