@@ -1,8 +1,4 @@
-Super clear, Varshi! 🤝 Naa ippo unakku **full complete final `README.md`** kudukren — **oru step-a kooda separate illa**, everything is continuous and professional, ready to paste in GitHub repo without any missing parts.
 
----
-
-````markdown
 # 🖐️ AI-Based Invisible Hand for Disabled People
 
 **An intelligent computer control system for people with disabilities using facial gestures—blink to click, head tilt to move cursor, and open mouth to scroll. Powered by Computer Vision and Python. No hardware, just a webcam!**
